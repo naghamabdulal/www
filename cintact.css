@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+}
+
+body {
+  font-family: Arial, sans-serif;
+
+  background-image: url("pic/girl-reception-hotline-operator_538658-44.avif");
+  background-repeat: no-repeat;
+}
+.container {
+  padding-left: 750px;
+  padding-top: 130px;
+}
+label {
+  color: #713b65;
+ 
+}
+/* b3dna l box 3n ba3d */
+.form-group {
+  margin-bottom: 20px;
+}
+.form-control:hover {
+  border: 2px solid #b691ab;
+  border-radius: 5px;
+}
+.btn {
+  padding: 10px 20px;
+  background-color: #bf7dac;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 200px;
+}
+.btn:hover {
+  background-color: #630c50;
+}
+
+h1 {
+  color: #b691ab;
+}
+span {
+  color: #7e89a9;
+}
+.head {
+  margin-top: 10px;
+  text-align: center;
+}
